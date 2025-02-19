@@ -1,0 +1,1 @@
+This example demonstrates a potential issue with the break statement in ActionScript loops.  The loop is intended to stop when i equals 5, but due to a misunderstanding of how break works with the trace, it continues to the end. This is a common error for new ActionScript developers, as it's not immediately obvious that the trace statements affect execution flow.
